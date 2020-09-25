@@ -15,7 +15,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.4.0
 	github.com/subosito/gotenv v1.2.0
-	github.com/zero-yy/crypt v0.0.4-0.20200925043747-77925509aeeb
+	github.com/zero-yy/crypt v0.0.4-0.20200925044231-8204ab00fe95
 	gopkg.in/ini.v1 v1.51.0
 	gopkg.in/yaml.v2 v2.3.0
 )
