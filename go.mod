@@ -19,3 +19,5 @@ require (
 	gopkg.in/ini.v1 v1.51.0
 	gopkg.in/yaml.v2 v2.3.0
 )
+
+replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
