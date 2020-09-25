@@ -11,7 +11,7 @@ import (
 	"io"
 	"os"
 
-	crypt "github.com/bketelsen/crypt/config"
+	crypt "github.com/zero-yy/crypt/config"
 
 	"github.com/spf13/viper"
 )
