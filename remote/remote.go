@@ -13,7 +13,7 @@ import (
 
 	crypt "github.com/zero-yy/crypt/config"
 
-	"github.com/spf13/viper"
+	"github.com/zero-yy/viper"
 )
 
 type remoteConfigProvider struct{}
